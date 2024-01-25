@@ -19,5 +19,9 @@ let arrayNumeros = [100, 25, 40, 78, 3];
 let numeroMaximo = Math.min(...arrayNumeros);
 
 console.log(numeroMaximo)
-
 */
+
+let nombres = ['Bryan', 'Manuel', 'Juan'];
+let ancho = nombres.length;
+
+console.log(ancho);
